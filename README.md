@@ -16,22 +16,22 @@ This is a simple bank account management system implemented in Java. The program
 ### Running the Program
 1. Clone the repository:
 ```
-git clone https://github.com/kalutu/bank-account-management-system.git
+git clone https://github.com/atika/Bank-Account.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd bank-account-management-system
+cd /Bank-Account
 ```
 
 3. Compile the Java file:
 ```
-javac BankAccountManagementSystem.java
+javac /Bank-Account.java
 ```
 
 4. Run the program:
 ```
-java BankAccountManagementSystem
+java /Bank-Account
 ```
 
 5. Follow the on-screen instructions to perform various operations on the bank accounts.
@@ -44,5 +44,4 @@ java BankAccountManagementSystem
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## Credits
-This project is created by Kalutu Daniel.
+
